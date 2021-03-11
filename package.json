@@ -1,0 +1,31 @@
+{
+  "name": "940backend",
+  "version": "1.0.0",
+  "description": "940 backend endpoints",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "940air",
+    "logistic",
+    "webapp",
+    "backend",
+    "with",
+    "express",
+    "node",
+    "and",
+    "mongodb",
+    "as",
+    "the",
+    "database"
+  ],
+  "author": "Joseph",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^13.1.0",
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.11.19"
+  }
+}
